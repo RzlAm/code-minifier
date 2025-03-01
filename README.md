@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-	<img src="https://rzlam.github.io/projects/code-minifier/assets/images/image.png" width="200" alt="Code minifier image"/>
+<div align="center">
+	<img src="https://rzlam.github.io/projects/code-minifier/assets/images/image.png" width="300" alt="Code minifier image"/>
 </div>
 
 <h1 align="center">
