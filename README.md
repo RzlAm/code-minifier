@@ -1,4 +1,4 @@
-![Code Minifier Image](https://rzlam.github.io/projects/code-minifier/assets/images/image.png)
+<img src="https://rzlam.github.io/projects/code-minifier/assets/images/image.png" width="200" alt="Code minifier image"/>
 
 <h1 align="center">
    Code Minifier 🚀
